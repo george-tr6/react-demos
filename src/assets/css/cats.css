@@ -1,0 +1,7 @@
+.cat-pic {
+    background-image: url(../images/cat.jpeg);
+    background-size: cover;
+    border: 3px solid black;
+    height: 375px;
+    width: 600px;
+}

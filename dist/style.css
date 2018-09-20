@@ -1,0 +1,7 @@
+.dog-pic {
+    background-image: url(dog.jpeg);
+    background-size: cover;
+    border: 3px solid black;
+    height: 375px;
+    width: 600px;
+}
